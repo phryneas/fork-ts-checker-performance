@@ -1,0 +1,12 @@
+[submodule "repos/devhub"]
+	path = repos/devhub
+	url = https://github.com/devhubapp/devhub
+[submodule "repos/vuetify"]
+	path = repos/vuetify
+	url = https://github.com/vuetifyjs/vuetify
+[submodule "repos/io-app"]
+	path = repos/io-app
+	url = https://github.com/teamdigitale/io-app
+[submodule "fork-ts-checker-webpack-plugin"]
+	path = fork-ts-checker-webpack-plugin
+	url = https://github.com/Realytics/fork-ts-checker-webpack-plugin
