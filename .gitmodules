@@ -10,3 +10,6 @@
 [submodule "fork-ts-checker-webpack-plugin"]
 	path = fork-ts-checker-webpack-plugin
 	url = https://github.com/Realytics/fork-ts-checker-webpack-plugin
+[submodule "repos/onefraction"]
+	path = repos/onefraction
+	url = https://github.com/TrillCyborg/onefraction
