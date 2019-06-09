@@ -13,3 +13,6 @@
 [submodule "repos/onefraction"]
 	path = repos/onefraction
 	url = https://github.com/TrillCyborg/onefraction
+[submodule "repos/improved-initiative"]
+	path = repos/improved-initiative
+	url = https://github.com/cynicaloptimist/improved-initiative
